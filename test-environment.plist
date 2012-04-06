@@ -1,0 +1,4 @@
+{
+	QMAKE = "/usr/bin/qmake";
+	"DYLD_INSERT_LIBRARIES" = "test-library2.xsl";
+}
